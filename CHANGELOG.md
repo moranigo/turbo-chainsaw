@@ -1,3 +1,6 @@
+## [0.0.3](https://rc.re-lizzy.xyz/releases/workspace-moranigo/TEST-17)
+* [TURBOCHAINSAW-1](https://tracker.yandex.ru/TURBOCHAINSAW-1) 1111
+
 ## [0.0.2](https://rc.re-lizzy.xyz/releases/workspace-moranigo/TEST-16)
 * [TURBOCHAINSAW-1](https://tracker.yandex.ru/TURBOCHAINSAW-1) 1111
 
