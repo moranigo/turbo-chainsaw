@@ -1,5 +1,6 @@
 ## [0.0.7](https://rc.re-lizzy.xyz/releases/workspace-moranigo/TEST-23)
-* [TURBOCHAINSAW-5](https://tracker.yandex.ru/TURBOCHAINSAW-5) задача с хорошим ПР (#15)
+* [TURBOCHAINSAW-3](https://tracker.yandex.ru/TURBOCHAINSAW-3) Задча которая терпеть не может 4 задачу (#13)
+* [TURBOCHAINSAW-4](https://tracker.yandex.ru/TURBOCHAINSAW-4) Задча которая терпеть не может 3 задачу
 
 ## [0.0.6](https://rc.re-lizzy.xyz/releases/workspace-moranigo/TEST-21)
 * [TURBOCHAINSAW-1](https://tracker.yandex.ru/TURBOCHAINSAW-1) 1111
