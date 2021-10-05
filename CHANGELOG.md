@@ -1,4 +1,5 @@
 ## [0.0.7](https://rc.re-lizzy.xyz/releases/workspace-moranigo/TEST-26)
+* [TURBOCHAINSAW-1](https://tracker.yandex.ru/TURBOCHAINSAW-1) задача без ПР
 * [TURBOCHAINSAW-7](https://tracker.yandex.ru/TURBOCHAINSAW-7) Поехала верстка в окне расчета стоимости товара (#39)
 
 ## [0.0.6](https://rc.re-lizzy.xyz/releases/workspace-moranigo/TEST-21)
