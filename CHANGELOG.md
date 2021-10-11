@@ -1,3 +1,6 @@
+## [0.0.7](https://rc.re-lizzy.xyz/releases/workspace-moranigo/TEST-30)
+* [TURBOCHAINSAW-1](https://tracker.yandex.ru/TURBOCHAINSAW-1) задача без ПР
+
 ## [0.0.6](https://rc.re-lizzy.xyz/releases/workspace-moranigo/TEST-21)
 * [TURBOCHAINSAW-1](https://tracker.yandex.ru/TURBOCHAINSAW-1) 1111
 
