@@ -1,3 +1,6 @@
+## [0.1.2](https://rc.re-lizzy.xyz/releases/broken-with-deleted/TEST-1)
+
+
 ## [0.0.9](https://rc.re-lizzy.xyz/releases/workspace-moranigo/TEST-33)
 * [TURBOCHAINSAW-1](https://tracker.yandex.ru/TURBOCHAINSAW-1) задача без ПР
 
