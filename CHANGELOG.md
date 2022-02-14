@@ -1,3 +1,6 @@
+## [0.3.5](https://rc.re-lizzy.xyz/moranigo/releases/NORMALNYYPROEKT-5)
+* [TURBOCHAINSAW-5](https://tracker.yandex.ru/TURBOCHAINSAW-5) задача с хорошим ПР (#15)
+
 ## [0.0.9](https://rc.re-lizzy.xyz/releases/workspace-moranigo/TEST-33)
 * [TURBOCHAINSAW-1](https://tracker.yandex.ru/TURBOCHAINSAW-1) задача без ПР
 
