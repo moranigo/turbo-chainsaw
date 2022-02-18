@@ -1,3 +1,6 @@
+## [0.3.6](https://rc.re-lizzy.xyz/moranigo/releases/TEST-1)
+* [TURBOCHAINSAW-8](https://tracker.yandex.ru/TURBOCHAINSAW-8) ghbvth (#47)
+
 ## [0.3.5](https://rc.re-lizzy.xyz/moranigo/releases/NORMALNYYPROEKT-5)
 
 
