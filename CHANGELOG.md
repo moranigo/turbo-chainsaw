@@ -1,3 +1,6 @@
+## [0.3.6](https://rc.re-lizzy.xyz/moranigo/releases/TEST-1)
+
+
 ## [0.3.5](https://rc.re-lizzy.xyz/moranigo/releases/NORMALNYYPROEKT-5)
 
 
